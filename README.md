@@ -31,7 +31,7 @@ This project is a motivational quote generator built with HTML, CSS, and JavaScr
 
 ## 🔗 Live Demo
 
-[View it on GitHub Pages](https://yourusername.github.io/jsproject-quote-generator/)  
+[View it on GitHub Pages](https://vncex.github.io/jsproject-quote-generator/)  
 *(Replace `yourusername` with your actual GitHub username)*
 
 ## 📸 Screenshots
